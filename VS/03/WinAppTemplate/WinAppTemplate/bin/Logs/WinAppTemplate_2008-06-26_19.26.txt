@@ -1,0 +1,10 @@
+6/26/2008 7:19:57 PM : WINAPPTEMPLATE STARTED
+6/26/2008 7:20:02 PM : Success: Directory.GetSubDirectorys: c:
+6/26/2008 7:20:02 PM : Success: Directory.GetSubDirectorys: c:
+6/26/2008 7:20:06 PM : WINAPPTEMPLATE FINISHED
+
+6/26/2008 7:20:27 PM : WINAPPTEMPLATE STARTED
+6/26/2008 7:20:31 PM : Success: Directory.GetSubDirectorys: c:
+6/26/2008 7:20:31 PM : Success: Directory.GetSubDirectorys: c:
+6/26/2008 7:20:44 PM : WINAPPTEMPLATE FINISHED
+

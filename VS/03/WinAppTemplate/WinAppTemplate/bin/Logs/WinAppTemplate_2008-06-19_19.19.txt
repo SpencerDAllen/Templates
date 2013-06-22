@@ -1,0 +1,69 @@
+6/19/2008 7:24:29 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:25:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:25:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:25:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:25:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:25:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:25:17 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:25:18 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:27:18 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:27:25 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:27:25 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:27:26 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:27:26 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:27:26 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:27:26 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:27:26 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:36:45 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:40:08 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:40:23 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:40:23 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:40:24 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:40:24 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:40:24 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:40:24 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:40:24 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:41:58 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:42:17 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:42:18 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:42:18 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:42:18 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:42:18 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:42:18 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:42:18 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:46:35 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:47:15 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:47:36 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:47:37 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:47:37 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:47:37 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:47:37 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:47:37 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:47:37 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:47:37 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:48:09 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:48:09 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:48:10 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:48:10 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:48:10 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:48:10 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:48:10 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:48:10 PM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:51:26 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:54:51 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:55:50 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:56:24 PM : WINAPPTEMPLATE STARTED
+6/19/2008 7:56:35 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-11_08.11.txt
+6/19/2008 7:56:35 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-13_08.13.txt
+6/19/2008 7:56:35 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:56:35 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_17.19.txt
+6/19/2008 7:56:35 PM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Joan\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_19.19.txt
+6/19/2008 7:56:35 PM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:56:36 PM : WINAPPTEMPLATE FINISHED
+

@@ -1,0 +1,10 @@
+6/19/2008 7:26:25 AM : WINAPPTEMPLATE STARTED
+6/19/2008 7:26:25 AM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Source Code\Good\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:26:25 AM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:26:26 AM : WINAPPTEMPLATE FINISHED
+
+6/19/2008 7:33:09 AM : WINAPPTEMPLATE STARTED
+6/19/2008 7:33:09 AM : Success: File.GetLastWriteTime \\escshare-xp\VBClass\Source Code\Good\WinAppTemplate\WinAppTemplate\bin\logs\WinAppTemplate_2008-06-19_07.19.txt
+6/19/2008 7:33:09 AM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 0
+6/19/2008 7:33:09 AM : WINAPPTEMPLATE FINISHED
+

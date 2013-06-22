@@ -1,0 +1,4 @@
+1/4/2008 7:36:55 AM : WINAPPTEMPLATE STARTED
+1/4/2008 7:36:55 AM : Success: Log.clearOld: Deleted Log Files: 0 logs of 0 old logs. Total logs = 1
+1/4/2008 7:36:55 AM : WINAPPTEMPLATE FINISHED
+
