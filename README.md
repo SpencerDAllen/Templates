@@ -2,3 +2,4 @@ Template files used for building apps and scripts. They serve as a skeloton and 
 
 WinAppTemplate: A template for building windows apps using Visual Studio 03.
 ColsoleAppTemplate: A template for building colsole apps using Visual Studio 03.
+Template.vbs: A template for building VBScripting files.
