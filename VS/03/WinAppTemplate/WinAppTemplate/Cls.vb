@@ -15,7 +15,6 @@
 '   MyClsDirectory must be added to the project.
 '   PwrClsLogs must be added to the project.
 '   PwrClsProcess must be added to the project.
-'   PwrCls3DesEncryption must be added to the project.
 '   PwrClsConfig must be added to the project.
 '   A properly configured xml document must be located in the same directory as
 '   the executable. 
@@ -356,7 +355,6 @@ Public Logs As New PwrClsLogs
 Public Directory As New MyClsDirectory
 Public Registry As New MyClsRegistry
 Public Process As New PwrClsProcess
-Public My3DEncryptor As New PwrCls3DesEncryption
 
 #End Region
 #Region "Constructor"
@@ -377,7 +375,6 @@ File.LogOnOff = logging
 Directory.LogOnOff = logging
 Registry.LogOnOff = logging
 Process.LogOnOff = logging
-My3DEncryptor.LogOnOff = logging
 Cfg.LogOnOff = logging
 
 'Cleanup
@@ -405,7 +402,6 @@ Logs.Dispose()
 Directory.Dispose()
 Registry.Dispose()
 Process.Dispose()
-My3DEncryptor.Dispose()
 
 'Cleanup
 Cfg = Nothing
@@ -414,7 +410,6 @@ Logs = Nothing
 Directory = Nothing
 Registry = Nothing
 Process = Nothing
-My3DEncryptor = Nothing
 
 'exit
 End Sub

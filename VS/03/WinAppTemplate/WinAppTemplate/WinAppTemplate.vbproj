@@ -140,11 +140,6 @@
                     BuildAction = "Compile"
                 />
                 <File
-                    RelPath = "PwrCls3DesEncryption.vb"
-                    SubType = "Code"
-                    BuildAction = "Compile"
-                />
-                <File
                     RelPath = "PwrClsConfigFile.vb"
                     SubType = "Code"
                     BuildAction = "Compile"
